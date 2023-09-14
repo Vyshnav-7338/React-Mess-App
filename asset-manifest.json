@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Mess-App/static/css/main.78017551.css",
+    "main.js": "/React-Mess-App/static/js/main.f862d04a.js",
+    "static/js/787.3a2ffd8e.chunk.js": "/React-Mess-App/static/js/787.3a2ffd8e.chunk.js",
+    "static/media/item-5.jpeg": "/React-Mess-App/static/media/item-5.0404eab291a21aa86bac.jpeg",
+    "static/media/item-4.jpeg": "/React-Mess-App/static/media/item-4.0ca4858614a64b486753.jpeg",
+    "index.html": "/React-Mess-App/index.html",
+    "main.78017551.css.map": "/React-Mess-App/static/css/main.78017551.css.map",
+    "main.f862d04a.js.map": "/React-Mess-App/static/js/main.f862d04a.js.map",
+    "787.3a2ffd8e.chunk.js.map": "/React-Mess-App/static/js/787.3a2ffd8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78017551.css",
+    "static/js/main.f862d04a.js"
+  ]
+}
